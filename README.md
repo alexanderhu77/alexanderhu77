@@ -1,4 +1,8 @@
-## Hi there 👋
+Alexander Hu, CS at UCLA
+
+I've worked with C++, Python, Java, JavaScript, Shell (Bash), Lisp, and Emacs Lisp.
+
+My favorite programming projects are automation ones
 
 <!--
 **alexanderhu77/alexanderhu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
