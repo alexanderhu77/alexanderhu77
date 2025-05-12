@@ -1,4 +1,4 @@
-Alexander Hu, CS at UCLA
+Hi, I'm Alexander Hu, currently studying CS at UCLA
 
 I've worked with C++, Python, Java, JavaScript, Shell (Bash), Lisp, and Emacs Lisp.
 
