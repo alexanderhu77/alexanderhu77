@@ -1,6 +1,6 @@
 Hi, I'm Alexander Hu, currently studying CS at UCLA
 
-I've worked with C, C++, Python, Java, JavaScript, Shell/Bash, Lisp, R, and Emacs Lisp.
+I've worked with C, C++, Python, Java, JavaScript, Shell/Bash, Lisp, R, Verilog, and Emacs Lisp.
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderhu77&langs_count=100&layout=compact&count_private=true&card_width=330&theme=light)
