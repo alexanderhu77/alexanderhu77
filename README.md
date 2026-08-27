@@ -1,6 +1,6 @@
 Hi, I'm Alexander Hu, currently studying CS at UCLA
 
-I've worked with C/C++, Python, Java, (Type/Java)Script, SQL, Shell/Bash, Lisp, R, Verilog.
+I've worked with C/C++, Python, Java, (Type/Java)Script, SQL, Shell/Bash, Lisp, R, and Verilog.
 
 My favorite programming projects are those involving automation or scripting.
 
