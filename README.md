@@ -1,4 +1,4 @@
-Hi, I'm Alexander Hu, currently studying CS at UCLA
+Hi, I'm Alexander Hu, currently studying CS at UCLA. You may see my current and completed coursework [here](https://github.com/alexanderhu77/Coursework).
 
 I've worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
