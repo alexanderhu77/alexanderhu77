@@ -12,6 +12,8 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 \text{where } \tau_0 = \text{now, }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{, }\ X_\tau = \text{a randomly chosen topic I study at time } \tau\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
 ```
 
+<br>
+
 I've worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
 Outside of classes and fun side projects, I do cybersecurity work, a small selection of which I've documented [here](https://github.com/alexanderhu77/Security).
