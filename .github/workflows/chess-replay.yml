@@ -8,11 +8,17 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: chess-replay
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: alexanderhu77/chess-replay-card@main
+      - uses: actions/checkout@v7
+
+      - id: card
+        uses: alexanderhu77/chess-replay-card@main
         with:
           username: alexanderhu77
           platform: lichess
@@ -29,3 +35,16 @@ jobs:
               commit -q -m "Update chess replay"
           git push -q --force \
             "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" chess-output
+
+      - name: Point the card's link at the featured game
+        env:
+          GAME_URL: ${{ steps.card.outputs.game_url }}
+        run: |
+          if [ -z "$GAME_URL" ]; then echo "No game link this time."; exit 0; fi
+          sed -i -E "s#<a href=\"[^\"]*\" title=\"Open this game on Lichess\">#<a href=\"${GAME_URL}\" title=\"Open this game on Lichess\">#" README.md
+          if git diff --quiet -- README.md; then echo "The link already points at ${GAME_URL}."; exit 0; fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Link the chess card to the featured game" -- README.md
+          git pull -q --rebase
+          git push -q
