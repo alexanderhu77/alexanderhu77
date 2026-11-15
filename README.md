@@ -8,7 +8,7 @@ Previously, I was a software engineer intern at MemVerge Inc where I worked on r
 
 [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant; here is my most recent Crazyhouse game:
 
-<a href="https://lichess.org/d9lGggLh/black" title="Open this game on Lichess">
+<a href="https://lichess.org/pQyOaomQ/white" title="Open this game on Lichess">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay-dark.svg">
   <img alt="My latest crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg">
