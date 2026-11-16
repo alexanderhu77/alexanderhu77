@@ -28,7 +28,7 @@ X_\tau = \text{a randomly chosen subject I learn at time } \tau\text{, }\ \text{
 
 I've worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
-Outside of classes and fun side projects, I do cybersecurity work, a small selection of which I've documented [here](https://github.com/alexanderhu77/Security).
+Beyond classes and side projects, I do cybersecurity work and security research. A small selection of it is documented in [my CVEs and advisories](https://github.com/alexanderhu77/Security).
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
 
