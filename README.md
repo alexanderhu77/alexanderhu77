@@ -33,7 +33,7 @@ Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Craz
 <a href="https://lichess.org/eg0CgUXV/white" title="Open this game on Lichess">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay-dark.svg">
-  <img alt="My latest Crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg">
+  <img alt="My latest Crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg" width="100%">
 </picture>
 </a>
 
