@@ -1,4 +1,4 @@
-name: Update date
+name: update-date
 on:
   schedule:
     - cron: "0 0 * * *"
