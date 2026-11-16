@@ -32,7 +32,7 @@ Outside of classes and fun side projects, I do cybersecurity work, a small selec
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
 
-Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
+Fun fact: I play a lot of chess and am a US Chess Candidate Master. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
 
 <a href="https://lichess.org/JLcdaaj1/black" title="Open this game on Lichess">
 <picture>
