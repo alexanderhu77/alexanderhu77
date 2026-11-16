@@ -9,7 +9,11 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-\text{where } \tau_0 = \text{now, }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{, }\ X_\tau = \text{a randomly chosen topic I study at time } \tau\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
+\text{where } \tau_0 = \text{now (November 15, 2026 UTC), }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{,}
+```
+
+```math
+X_\tau = \text{a randomly chosen topic I study at time } \tau\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
 ```
 
 <br>
