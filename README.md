@@ -9,7 +9,7 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-\forall \tau \geq \tau_0 : \; 0 \ll \mathbb{P}\big(X_\tau \notin \mathcal{I}(\tau)\big) \ll 1
+\forall \varepsilon > 0 \;\; \exists\, L > 0 \;\; \forall \tau \geq \tau_0 \; : \; ℙ\big(\exists\, t \in [\tau, \tau + L] \; : \; X_t \notin \mathcal{I}(t)\big) \geq 1 - \varepsilon
 ```
 
 ```math
@@ -21,7 +21,7 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-X_\tau = \text{a randomly chosen subject I learn at time } \tau\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
+X_t = \text{the subject I am learning at time } t\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
 ```
 
 <br>
