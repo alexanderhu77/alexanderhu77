@@ -26,7 +26,7 @@ Previously, I was a software engineer intern at MemVerge Inc., where I worked on
 
 Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant; here is my most recent Crazyhouse game:
 
-<a href="https://lichess.org/GPlJ5FW4/white" title="Open this game on Lichess">
+<a href="https://lichess.org/eg0CgUXV/white" title="Open this game on Lichess">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay-dark.svg">
   <img alt="My latest Crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg">
