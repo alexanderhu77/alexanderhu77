@@ -1,7 +1,11 @@
-Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interest currently lies in the union of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside these areas. More formally:
+Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the union of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally:
 
 ```math
-\mathcal{I}(\tau_0) = \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \supsetneq \mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}
+\mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \supsetneq \mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}
+```
+
+```math
+\iff \forall s : \; s \in \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \implies s \in \mathcal{I}(\tau_0)
 ```
 
 ```math
