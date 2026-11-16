@@ -17,6 +17,10 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
+\mathrm{CS},\ \mathrm{Stats},\ \mathrm{Math} = \text{the sets of subjects in computer science, statistics, and mathematics, respectively,}
+```
+
+```math
 X_\tau = \text{a randomly chosen subject I learn at time } \tau\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
 ```
 
