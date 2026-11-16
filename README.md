@@ -1,11 +1,11 @@
 Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the ___union___[^union] of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally and precisely:
 
 ```math
-\mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \supsetneq \mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}
+\mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha} \supsetneq \mathrm{CS}_{\alpha} \cap \mathrm{Stats}_{\alpha} \cap \mathrm{Math}_{\alpha}
 ```
 
 ```math
-\iff \big(\forall s : \; s \in \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \implies s \in \mathcal{I}(\tau_0)\big) \;\land\; \big(\mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T}\big) \setminus \big(\mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}\big) \neq \varnothing
+\iff \big(\forall s : \; s \in \mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha} \implies s \in \mathcal{I}(\tau_0)\big) \;\land\; \big(\mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha}\big) \setminus \big(\mathrm{CS}_{\alpha} \cap \mathrm{Stats}_{\alpha} \cap \mathrm{Math}_{\alpha}\big) \neq \varnothing
 ```
 
 ```math
@@ -21,7 +21,7 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-X_t = \text{the subject I am learning at time } t\text{, }\ \text{and the subscript } T \text{ denotes ``theoretical''}
+X_t = \text{the subject I am learning at time } t\text{, }\ \text{and the subscript } \alpha \text{ denotes ``theoretical''}
 ```
 
 <br>
