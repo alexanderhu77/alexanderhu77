@@ -1,0 +1,21 @@
+name: Update date
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write today's date into README
+        run: |
+          TODAY=$(date -u '+%B %-d, %Y')
+          sed -i -E "s/now \([A-Za-z]+ [0-9]{1,2}, [0-9]{4} UTC\)/now ($TODAY UTC)/" README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update date" && git push)
