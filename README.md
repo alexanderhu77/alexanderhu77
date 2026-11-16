@@ -32,7 +32,7 @@ Beyond classes and side projects, I do cybersecurity work and security research.
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
 
-Fun fact: I play a lot of chess and am a US Chess Candidate Master. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
+Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
 
 <a href="https://lichess.org/y9yMrYp8/black" title="Open this game on Lichess">
 <picture>
@@ -41,5 +41,5 @@ Fun fact: I play a lot of chess and am a US Chess Candidate Master. [Crazyhouse]
 </picture>
 </a>
 
-[^union]::bangbang:**NOT** the intersection :bangbang:
+[^union]::bangbang: This is **NOT** the intersection :bangbang: It is a very important distinction.
 [^bughouse]:[Bughouse chess](https://en.wikipedia.org/wiki/Bughouse_chess) is a close second
