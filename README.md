@@ -1,4 +1,4 @@
-Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the union of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally:
+Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the *union*[^1] of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally:
 
 ```math
 \mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \supsetneq \mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}
@@ -36,3 +36,5 @@ Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Craz
   <img alt="My latest Crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg">
 </picture>
 </a>
+
+[^1]: Not the intersection
