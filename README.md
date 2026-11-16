@@ -1,4 +1,4 @@
-Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the *union*[^1] of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally:
+Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the *union*[^union] of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally:
 
 ```math
 \mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \supsetneq \mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}
@@ -32,7 +32,7 @@ Outside of classes and fun side projects, I do cybersecurity work, a small selec
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
 
-Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant; here is my most recent Crazyhouse game:
+Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
 
 <a href="https://lichess.org/JLcdaaj1/black" title="Open this game on Lichess">
 <picture>
@@ -41,4 +41,5 @@ Fun fact: I play a lot of chess. [Crazyhouse](https://en.wikipedia.org/wiki/Craz
 </picture>
 </a>
 
-[^1]: Not the intersection
+[^union]::bangbang:Not the intersection:bangbang:
+[^bughouse]:[Bughouse chess](https://en.wikipedia.org/wiki/Bughouse_chess) is a close second
