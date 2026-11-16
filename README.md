@@ -5,7 +5,7 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-\iff \forall s : \; s \in \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \implies s \in \mathcal{I}(\tau_0)
+\iff \big(\forall s : \; s \in \mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T} \implies s \in \mathcal{I}(\tau_0)\big) \;\land\; \big(\mathrm{CS}_{T} \cup \mathrm{Stats}_{T} \cup \mathrm{Math}_{T}\big) \setminus \big(\mathrm{CS}_{T} \cap \mathrm{Stats}_{T} \cap \mathrm{Math}_{T}\big) \neq \varnothing
 ```
 
 ```math
