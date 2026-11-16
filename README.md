@@ -1,4 +1,4 @@
-Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the ___union___[^union] of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally and precisely:
+Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am officially a computer science major, but my interests currently include the ___union___<sup>[1](#fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. However, I also regularly learn outside my interests. More formally and precisely:
 
 ```math
 \mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha} \supsetneq \mathrm{CS}_{\alpha} \cap \mathrm{Stats}_{\alpha} \cap \mathrm{Math}_{\alpha}
@@ -32,7 +32,7 @@ Beyond classes and side projects, I do cybersecurity work and security research.
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
 
-Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant[^bughouse]; here is my most recent Crazyhouse game:
+Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is my most recent Crazyhouse game:
 
 <a href="https://lichess.org/y9yMrYp8/black" title="Open this game on Lichess">
 <picture>
@@ -41,5 +41,6 @@ Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Craz
 </picture>
 </a>
 
-[^union]::bangbang: This is **NOT** the intersection :bangbang: It is a very important distinction.
-[^bughouse]:[Bughouse chess](https://en.wikipedia.org/wiki/Bughouse_chess) is a close second
+
+<sub><a name="fn-union"></a>1. :bangbang: This is **NOT** the intersection :bangbang: It is a very important distinction.</sub> <br>
+<sub><a name="fn-bughouse"></a>2. [Bughouse chess](https://en.wikipedia.org/wiki/Bughouse_chess) is a close second.</sub>
