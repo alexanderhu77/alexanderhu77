@@ -43,8 +43,14 @@ jobs:
           if [ -z "$GAME_URL" ]; then echo "No game link this time."; exit 0; fi
           sed -i -E "s#<a href=\"[^\"]*\" title=\"Open this game on Lichess\">#<a href=\"${GAME_URL}\" title=\"Open this game on Lichess\">#" README.md
           if git diff --quiet -- README.md; then echo "The link already points at ${GAME_URL}."; exit 0; fi
-          git -c user.name="github-actions[bot]" \
-              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-              commit -q -m "Link the chess card to the featured game" -- README.md
-          git pull -q --rebase
-          git push -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Link the chess card to the featured game" -- README.md
+          for attempt in 1 2 3 4 5; do
+            if git pull -q --rebase && git push -q; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed; retrying."
+            sleep $((attempt * 5))
+          done
+          echo "Could not push after 5 attempts." >&2
+          exit 1
