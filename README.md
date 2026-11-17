@@ -26,11 +26,11 @@ X_t = \text{the subject I am learning at time } t\text{, }\ \text{and the subscr
 
 <br>
 
-I've worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
-
 Beyond classes and side projects, I do cybersecurity work and security research. A small selection of it is documented in [my CVEs and advisories](https://github.com/alexanderhu77/Security).
 
 Previously, I was a software engineer intern at MemVerge Inc., where I worked on reducing LLM serving costs.
+
+I've worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
 Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is my most recent Crazyhouse game:
 
