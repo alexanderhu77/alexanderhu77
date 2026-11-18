@@ -13,7 +13,7 @@ Hi, I'm Alexander Hu, currently studying at UCLA. You may see my past and presen
 ```
 
 ```math
-\text{where } \tau_0 = \text{now (November 17, 2026 UTC), }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{,}
+\text{where } \tau_0 = \text{now (November 18, 2026 UTC), }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{,}
 ```
 
 ```math
