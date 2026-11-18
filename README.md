@@ -36,7 +36,7 @@ I've primarily worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Sca
 
 Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is my most recent Crazyhouse game:
 
-<a href="https://lichess.org/dv84RDTh/white" title="Open this game on Lichess">
+<a href="https://lichess.org/NmmaBoF8/white" title="Open this game on Lichess">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay-dark.svg">
   <img alt="My latest Crazyhouse game" src="https://raw.githubusercontent.com/alexanderhu77/alexanderhu77/chess-output/chess-replay.svg" width="100%">
