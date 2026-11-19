@@ -4,7 +4,7 @@ I'm Alexander Hu, currently an undergraduate student at UCLA. You may see my pas
 
 Outside of classes, side projects, and open source work, I do cybersecurity work and security research. A small selection of it is documented in [my publicly disclosed CVEs and advisories](https://github.com/alexanderhu77/Security).
 
-My interests currently include the ___union___<sup>[1](#fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. I love learning about *why* systems work the way they do and also regularly learn outside my interests. To put this more formally and precisely:
+My interests currently include the ___union___<sup>[1](#fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. I focus on *why* systems work the way they do and also regularly learn outside my interests. To put this more formally and precisely:
 
 ```math
 \mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha} \supsetneq \mathrm{CS}_{\alpha} \cap \mathrm{Stats}_{\alpha} \cap \mathrm{Math}_{\alpha}
