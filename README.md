@@ -1,6 +1,8 @@
-Hello! I'm Alexander Hu, currently an undergraduate student at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am majoring in [computer science](https://catalog.registrar.ucla.edu/major/2024/ComputerScienceBS?siteYear=2024) and minoring in [statistics and data science](https://catalog.registrar.ucla.edu/minor/2025/StatisticsandDataScienceMinor?siteYear=2025). 
+Hello! Welcome to my GitHub page.
 
-Beyond classes, side projects, and open source work, I do cybersecurity work and security research. A small selection of it is documented in [my publicly disclosed CVEs and advisories](https://github.com/alexanderhu77/Security).
+I'm Alexander Hu, currently an undergraduate student at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am majoring in [computer science](https://catalog.registrar.ucla.edu/major/2024/ComputerScienceBS?siteYear=2024) and minoring in [statistics and data science](https://catalog.registrar.ucla.edu/minor/2025/StatisticsandDataScienceMinor?siteYear=2025). 
+
+Outside of classes, side projects, and open source work, I do cybersecurity work and security research. A small selection of it is documented in [my publicly disclosed CVEs and advisories](https://github.com/alexanderhu77/Security).
 
 My interests currently include the ___union___<sup>[1](#fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. I love learning about *why* systems work the way they do and also regularly learn outside my interests. To put this more formally and precisely:
 
@@ -34,7 +36,7 @@ Previously, I was a software engineer intern at MemVerge Inc., where I worked on
 
 I've primarily worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
-Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is my most recent Crazyhouse game:
+Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is one of my most recent Crazyhouse games:
 
 <a href="https://lichess.org/NmmaBoF8/white" title="Open this game on Lichess">
 <picture>
