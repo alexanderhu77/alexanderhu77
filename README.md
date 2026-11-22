@@ -19,7 +19,7 @@ My interests currently include the ___union___<sup>[1](#fn-union)</sup> of theor
 ```
 
 ```math
-\text{where } \tau_0 = \text{now (November 21, 2026 UTC), }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{,}
+\text{where } \tau_0 = \text{now (November 22, 2026 UTC), }\ \mathcal{I}(\tau) = \text{my interests at time } \tau\text{,}
 ```
 
 ```math
