@@ -45,6 +45,5 @@ Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Craz
 </picture>
 </a>
 
-<a name="fn-union"></a><a name="fn-bughouse"></a><br>
-<sub>1. :bangbang: This is **NOT** the intersection :bangbang: It is a very important distinction.</sub> <br>
+<br><span id="fn-union"></span><span id="fn-bughouse"></span><sub>1. :bangbang: This is **NOT** the intersection :bangbang: It is a very important distinction.</sub> <br>
 <sub>2. [Bughouse chess](https://en.wikipedia.org/wiki/Bughouse_chess) is a close second.</sub>
