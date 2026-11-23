@@ -1,4 +1,4 @@
-Hello! Welcome to my GitHub page.
+Hello world! Welcome to my GitHub page.
 
 I'm Alexander Hu, currently an undergraduate student at UCLA. You may see my past and present coursework [here](https://github.com/alexanderhu77/Coursework). I am majoring in [computer science](https://catalog.registrar.ucla.edu/major/2024/ComputerScienceBS?siteYear=2024) and minoring in [statistics and data science](https://catalog.registrar.ucla.edu/minor/2025/StatisticsandDataScienceMinor?siteYear=2025). 
 
