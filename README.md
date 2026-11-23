@@ -4,7 +4,7 @@ I'm Alexander Hu, currently an undergraduate student at UCLA. You may see my pas
 
 Outside of classes, side projects, and open source work, I do cybersecurity work and security research. A small selection of it is documented in [my publicly disclosed CVEs and advisories](https://github.com/alexanderhu77/Security).
 
-My interests currently include the ___union___<sup>[1](#fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. I focus on *why* systems work the way they do and also regularly learn outside my interests. To put this more formally and precisely:
+My interests currently include the ___union___<sup>[1](#user-content-fn-union)</sup> of theoretical computer science, theoretical statistics, and theoretical mathematics. I focus on *why* systems work the way they do and also regularly learn outside my interests. To put this more formally and precisely:
 
 ```math
 \mathcal{I}(\tau_0) \supseteq \mathrm{CS}_{\alpha} \cup \mathrm{Stats}_{\alpha} \cup \mathrm{Math}_{\alpha} \supsetneq \mathrm{CS}_{\alpha} \cap \mathrm{Stats}_{\alpha} \cap \mathrm{Math}_{\alpha}
@@ -36,7 +36,7 @@ Previously, I was a software engineer intern at MemVerge Inc., where I worked on
 
 I've primarily worked with Python, C/C++, Java, JavaScript, TypeScript, SQL, Scala, R, and Assembly.
 
-Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#fn-bughouse)</sup>; here is one of my most recent Crazyhouse games:
+Fun fact: I am a US Chess Candidate Master and Senior Tournament Director. [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse) is my favorite chess variant<sup>[2](#user-content-fn-bughouse)</sup>; here is one of my most recent Crazyhouse games:
 
 <a href="https://lichess.org/Uj6lWlns/black" title="Open this game on Lichess">
 <picture>
